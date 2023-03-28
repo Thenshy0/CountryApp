@@ -10,7 +10,7 @@ The front end project is to practice React with TypeScript and Redux. Completing
 ## How to run project
 
 1. Step 1: npm install
-2. Step 2: npm start
+
 
 ## Logic Requirements (9 points)
 
